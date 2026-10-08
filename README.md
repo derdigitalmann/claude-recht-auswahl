@@ -39,4 +39,4 @@ Die gespiegelten Inhalte stehen unter `Apache-2.0 OR MIT` (Wahl des Nutzers, sie
 
 Die Inhalte sind keine Rechtsberatung und ersetzen keine Prüfung im Einzelfall. Normen, Rechtsprechung und Fristen vor jeder Verwendung am Original prüfen. Bereitstellung unentgeltlich und ohne Gewähr.
 
-Anbieter dieses Repositorys: Mehmet Aydoğdu, digitalmann. [Impressum](https://digitalmann.de/impressum)
+Anbieter dieses Repositorys: digitalmann. [Impressum](https://digitalmann.de/impressum)
