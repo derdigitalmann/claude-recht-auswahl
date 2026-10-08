@@ -1,0 +1,55 @@
+# 1. Verordnung über künstliche Intelligenz: Schnellstart
+
+Prüfe anhand der Systemakte Funktion, Rolle, Pflicht und Datum. Kläre nur fehlendes Auftragsziel oder entscheidende Lücken; sonst direkt entwerfen. Antworten ohne Neustart einarbeiten. Kein Pluginzugriff erforderlich.
+
+Reformstand 10. September, Artikel-50-Leitlinien 30. September und Agentenergänzung 2. Oktober 2026; vor späterer Anwendung aktualisieren.
+
+## 1.1. System und Rolle bestimmen
+
+Was entscheidet oder erzeugt das System tatsächlich, für wen und seit wann? Artikel 2 und 3 prüfen; Anbieter, Betreiber, Importeur, Händler und Produktintegrator trennen. Eigenes Branding, wesentliche Änderung oder neue Zweckbestimmung können Artikel 25 auslösen. Modellpflichten nach Kapitel V und Systempflichten nicht gleichsetzen.
+
+Bei Agenten Planung, Gedächtnis, Werkzeuge, Unteraufträge und Außenhandlung erfassen. Autonomie allein begründet kein Hochrisiko. Die Gesamtanwendung nicht durch isoliert harmlose Teilmodule ausnehmen. Vor irreversiblen Handlungen tatsächliche Prüfung und Befugnis klären; Not-Aus allein genügt nicht. Zuliefermitwirkung nach Artikel 25 Absatz 4 konkret vereinbaren, Ausnahmen beachten. Liefere Rollenvermerk, Betriebsregel oder Klausel statt bloßer Inventarliste.
+
+## 1.2. Verbot und Risikoeinstufung
+
+Artikel 5 zuerst: konkrete verbotene Funktion, Tatbestand und Ausnahme. Danach Artikel 6 Absatz 1 mit Produktregime oder Absatz 2 mit genauem Anhang-III-Eintrag. Absatz 3 verlangt eine tragfähige Ausnahmeprüfung; Profiling sperrt die dortige Entlastung. Bei Produktfunktionen neue Absätze 1a bis 1c beachten: reine Komfortfunktion reicht nicht, sicherheitsgefährdender Ausfall kann dagegen sprechen. Maschinen stehen nun in Anhang I Abschnitt B; Artikel 2 Absatz 2 und Maschinenrecht zuerst abgrenzen.
+
+Bonität: Anhang III Nummer 5 Buchstabe b von Artikel 22 DSGVO trennen. EuGH, Urteil vom 07.12.2023, C-634/21, Randnummer 73: Maßgeblicher Score für Drittentscheidung kann selbst Artikel 22 Absatz 1 unterfallen; Ausnahme und Garantien prüfen. Kein Urteil zu Artikel 6 oder 4a. [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634).
+
+## 1.3. Den richtigen Termin an die Pflicht schreiben
+
+Verordnung (EU) 2026/1744 gilt seit 27. Juli 2026. Artikel 113 verschiebt Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: Anhang III auf 2. Dezember 2027, Anhang I auf 2. August 2028. Das sind feste Daten, keine bloßen Höchstfristen. Artikel 111 zum Bestand und erheblicher Konzeptionsänderung gesondert prüfen. Nicht alle anderen Pflichten verschieben; GPAI und bereits geltendes Produktrecht separat halten.
+
+Artikel 4 bleibt kontextgerechte Kompetenzförderung, ohne Garantie eines bestimmten individuellen Niveaus oder gesetzliche Zertifikatspflicht. Vorhandene Einweisung nutzen und konkrete Lücken schließen. Menschliche Hochrisikoaufsicht nach Artikel 26 Absatz 2 gesondert prüfen.
+
+COM(2025) 837 im Verfahren 2025/0360(COD) ist dagegen ein offener Vorschlag. Daraus weder eine geltende 96-Stunden-Meldefrist noch eine allgemeine datenschutzrechtliche Trainingserlaubnis ableiten; den Verfahrensstand vor einer späteren Anwendung erneut prüfen.
+
+## 1.4. Daten und synthetische Inhalte auseinanderhalten
+
+Artikel 4a betrifft sensible Daten zur Bias-Erkennung und -Korrektur, nicht Deepfakes. Absatz 1 für Hochrisikoanbieter; Absatz 2 erweitert den Kreis nur unter weiteren Bedingungen. Strikte Notwendigkeit, fehlende gleich wirksame andere Daten, Nutzungsbeschränkung, geschützte dokumentierte Zugriffe, keine Weitergabe und früheste Löschung belegen. Keine allgemeine Trainingserlaubnis; Datenschutzprüfung fortführen.
+
+Artikel 50 gilt grundsätzlich seit 2. August 2026. Absatz 2 verlangt technische Anbieterkennzeichnung, Absatz 4 Betreiberhinweise für Deepfakes beziehungsweise bestimmte Texte. Artikel 111 Absatz 4 gibt nur Anbietern vor dem 2. August 2026 vermarkteter synthetische Inhalte erzeugender Systeme bis 2. Dezember 2026 für Absatz 2 Zeit. Nicht auf Betreiber oder neue Systeme ausdehnen. Neue Inhaltsverbote stehen in Artikel 5 Buchstaben ba und bb, anwendbar ab 2. Dezember 2026. Kennzeichnung heilt kein Verbot.
+
+Finale Leitlinien vom 20. Juli 2026: unverbindlich, kein Urteil. Randnummern 30 bis 40: automatisch antwortende E-Mails und Agenten von tatsächlich menschlich geprüften und versandten Antworten trennen; bloße Eingriffsmöglichkeit genügt nicht. Künstlichen Charakter und Auftraggeber offenlegen. Randnummern 69 bis 78: Markierung plus verfügbarer Detektionsweg mit menschenlesbarem Ergebnis; kein sichtbares Betreiberlabel auf jedem privaten Dokument. „Intern“ und „B2B“ befreien nicht pauschal.
+
+Randnummern 113 bis 138: Realistische erfundene Sprecher können nach weiter Kommissionsauslegung Deepfakes sein. Interne Vorführung ist nicht automatisch frei. Öffentliche Texte gesondert prüfen: Bezahlschranke schließt Öffentlichkeit nicht aus; sachkundige Inhaltsprüfung oder redaktionelle Kontrolle plus Verantwortung kann entlasten. Substanzielle spätere KI-Änderung erneut prüfen; neue Endprüfung kann die Ausnahme wieder tragen. Randnummer 143: Clips ohne Vorspann beachten. Randnummer 154: Altmedien vor 2. August nicht rückwirkend kennzeichnen; bei Texten muss auch die Veröffentlichung vorher liegen. Juli-Entwurf mit später Publikation neu prüfen. [Amtlicher Volltext](https://ec.europa.eu/newsroom/dae/redirection/document/131215).
+
+## 1.5. Dossier und zuständige Stelle
+
+Artikel 43: Anhang III Nummer 1 mit den Bedingungen für Anhang VI oder VII, Nummern 2 bis 8 grundsätzlich interne Kontrolle. Keine pauschale Drittprüfung. Produktverfahren nach Absatz 3 nur im passenden Abschnitt-A-Regime. Version, Nachweis, Erklärung und Registrierung abstimmen; technische Dokumentation nicht pauschal veröffentlichen.
+
+KI-MIG seit 29. Juli 2026: Bundesnetzagentur als Auffangbehörde. Paragraf 2 enthält Produkt-, Finanz-, Kammer-, Länder- und Medienzuständigkeiten. EU-Sonderaufsicht sowie Datenschutzaufsicht daneben prüfen. Eine Eingabe bei der zentralen Beschwerdestelle ist keine Feststellung ausschließlicher Zuständigkeit.
+
+## 1.6. Ergebnis liefern und belegen
+
+Neue Zweckbeschreibung ändert Rolle und Vertragsregel, Vermarktungsbeleg nur die einschlägige Frist. Widersprüche gezielt klären. Begründe das Ergebnis mit Tatsache, Normfassung, Datum und Gegenargument. Bei Verbot oder Vorfall keine Freigabe vortäuschen, aber den möglichen Entwurf liefern. Fehlende Quellen benennen.
+
+Technischen Anbieternachweis und sichtbaren Betreiberhinweis trennen. Die Textausnahme befreit keine Deepfakes; ein Wasserzeichen ersetzt nicht automatisch den Publikumshinweis. Entscheidungen amtlich verifizieren und nur zum passenden Regelungsgegenstand verwenden.
+
+Quellen: [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html). Vollständige Sätze, dezimale Gliederung, Times New Roman 11 pt bei Dokumentexport. Versand nur nach Freigabe.
+
+Abrufvermerke getrennt halten; fachliche Vorbehalte bleiben im Empfängertext.
+
+## 1.7. Grenzen
+
+Ungeklärtes Verbot oder Bewertungsverfahren sperrt die betroffene Freigabe, nicht den begründeten Entwurf. Keine eigenmächtige Abschaltung, Meldung oder Registrierung. Fehlende Quellen und ungelesene Dateien offenlegen. Ohne Export fertigen Text liefern, keinen Dateilink erfinden.
