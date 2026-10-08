@@ -1,0 +1,53 @@
+# 1. Datenschutzrecht: Schnellstart
+
+Dateien zuerst lesen; ohne Auftrag Auskunft, Vorfall oder Vertrag klären, sonst direkt entwerfen. Nur entscheidende Lücken fragen, Folgeantworten einarbeiten. Ohne Plugin verwendbar. Reformstand 14. September, Agentenergänzung 2. Oktober 2026; späteren Stand prüfen.
+
+## 1.1 Verantwortlichen und Frist bestimmen
+
+Tatsächliche Zwecke und Mittel klären; Verantwortlicher, gemeinsam Verantwortliche und Auftragsverarbeiter je Verarbeitung trennen. Bei Betroffenenanträgen grundsätzlich ein Monat nach Artikel 12 Absatz 3; Verlängerungsgrund und rechtzeitige Mitteilung getrennt prüfen. Bei Datenpannen unverzüglich handeln und möglichst binnen 72 Stunden nach Artikel 33 melden, sofern ein Risiko nicht unwahrscheinlich ist. Hohe Risikoschwelle gehört zu Artikel 34. Unvollständige Angaben nach Artikel 33 Absatz 4 nachreichen, nicht auf vollständige Forensik warten.
+
+## 1.2 Passenden Arbeitsweg wählen
+
+Auskunft: Identität verhältnismäßig klären, Daten und Empfänger auffinden, Rechte Dritter konkret schützen, verständlich antworten. Löschung: Zweckfortfall, Aufbewahrung, Anspruchsabwehr und Empfängerinformation prüfen. Vertrag: tatsächliche Weisungen, Unterauftragnehmer, Sicherheit, Löschung und Transfers gegen Artikel 28 halten. Beschwerde: Pflichtverletzung, Beleg, gewünschte Abhilfe und zuständige Datenschutzaufsicht zusammenführen.
+
+Bei Aktenkopien Artikel 15 Absätze 3 und 4 nach EuGH, Urteil vom 04.05.2023, C-487/21, CRIF, Randnummern 28 bis 45: Daten verständlich und originalgetreu, Dokumentkontext soweit für wirksame Rechte nötig; Rechte Dritter konkret schützen. Kein allgemeiner Vollaktenanspruch. [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0487).
+
+2026-Anker: EuGH, Urteil vom 19.03.2026, C-526/24: Auch ein Erstantrag kann bei nachgewiesener Missbrauchsabsicht exzessiv sein. Bloßer Verdacht trägt weder Ablehnung noch Gebühr; Schaden und Kausalität bleiben nötig. [Gerichtliche Pressemitteilung](https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038de.pdf), Volltext/Randnummern vor Zitat prüfen. BFH, Urteil vom 30.06.2026, IX R 2/25, Gründe II.3.: Bei Finanzbehörden fehlende Auskunft nachfordern, keine eidesstattliche Versicherung verlangen; private Verantwortliche gesondert prüfen. [Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610168/).
+
+Datenpanne: Kenntnis und Meldeentscheidung dokumentieren. Erstmeldung mit Verletzungsart, möglichst Kategorien/Zahlen Betroffener und Datensätze, Kontakt, Folgen und Abhilfe. Schätzungen kennzeichnen, Nachlieferung terminieren. Bei hohem Risiko gesonderte Betroffeneninformation; Empfänger-Löschzusage beweist keine Eindämmung. Auch Nichtmeldung begründen.
+
+Bei Artikel 82 Verletzung, Schaden und Kausalität trennen: EuGH, Urteil vom 04.05.2023, C-300/21, Österreichische Post, Randnummern 32 bis 51 und 58 bis 59, verlangt einen konkreten Nachteil, aber keine zusätzliche Erheblichkeitsschwelle. Frage nach Schaden und Zusammenhang; kein automatischer Pauschalbetrag oder Strafschadensersatz.
+
+### 1.2.1 Agenten
+
+Bei Agenten Inferenz, Gedächtnis, Werkzeugempfänger und Training je Zweck und Rolle prüfen. Ein lokales Modell macht externe Aufrufe nicht lokal. Ausgabefilter sind keine Löschbestätigung; Aufbewahrung begrenzt nicht automatisch jeden Löschanspruch. Artikel 18 ist kein pauschaler Ersatz. Artikel 22 verlangt Prüfung der tatsächlichen Entscheidungskette; Artikel 6 Absatz 1 Buchstabe f ist keine Ausnahme. Erfüllbare Teile beantworten, Nachweise gezielt anfordern.
+
+## 1.3 Omnibus: geltendes Recht von Vorschlägen trennen
+
+COM(2025) 837, Verfahren 2025/0360(COD), ist noch nicht abgeschlossen. 96-Stunden-Meldung, geänderte Risikoschwelle, Trainingsprivilegien oder neue Auskunftsausnahmen nicht als geltendes Recht anwenden. Pseudonymisierte Daten sind nicht automatisch anonym.
+
+COM(2025) 501, Verfahren 2025/0130(COD), ist eine andere Reformspur. Keine Verzeichnisbefreiung für 750 oder 1000 Beschäftigte vorwegnehmen. Artikel 30 Absatz 5 bleibt: Selbst unter 250 Beschäftigten sind insbesondere regelmäßige, riskante oder sensible Verarbeitungen erfasst. Gewöhnliche Personalverwaltung nicht aus dem Verzeichnis entfernen.
+
+## 1.4 Sensible Daten für Bias-Prüfung
+
+Die bereits geltende Verordnung (EU) 2026/1744 änderte dagegen die Verordnung (EU) 2024/1689. Neuer Artikel 4a ersetzt Artikel 10 Absatz 5. Absatz 1 betrifft Hochrisikoanbieter, Absatz 2 weitere Anbieter und Betreiber nur unter zusätzlichen Bedingungen. Strikte Notwendigkeit, fehlende gleich wirksame andere Daten, technische Zweckbindung, Pseudonymisierung und Sicherheit, dokumentierte Zugriffe, keine Weitergabe und früheste Löschung prüfen. Die Gründe gehören ins Verarbeitungsverzeichnis.
+
+Keine allgemeine Trainingserlaubnis. Artikel 6 und 9, Rechte der Betroffenen, Sicherheit und gegebenenfalls Folgenabschätzung bleiben zu prüfen. Ein Dienstleister darf nicht unter dem Etikett Bias-Korrektur beliebig sensible Kundenakten weiterverwenden.
+
+## 1.5 Systemrecht und Datenschutz koordinieren
+
+Artikel 4 verlangt Kompetenzförderung ohne individuelle Niveaugarantie. Artikel 50 betrifft Transparenz, Deepfakes gehören zu Absatz 4, nicht Artikel 4a. Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 gelten nach Artikel 113 bei Anhang III ab 2. Dezember 2027, bei Anhang I ab 2. August 2028; das verschiebt keine Datenschutz-Folgenabschätzung. Artikel 111 zum Bestand gesondert prüfen.
+
+Nach KI-MIG ist die Bundesnetzagentur Auffangbehörde für Systemaufsicht. Paragraf 2 enthält insbesondere Sonderzuständigkeiten für Produkte, bestimmte Finanzunternehmen, öffentliche Landesstellen und Medien sowie die unabhängige Kammer. Datenschutzaufsicht bleibt daneben zuständig. Meldungen, Rechtsbehelfe und Aktenzugang nicht vermischen.
+
+## 1.6 Arbeitsprodukt und Quellen
+
+Bei bestätigtem Download Linksperrung nicht als vollständige Eindämmung darstellen; lokale Kopie und Löschbestätigung prüfen, Betroffenenbrief anpassen. Fehlende CRM-Daten gezielt nachfordern; nach Eingang Datenkopie und Antwort vervollständigen.
+
+Quellenstatus separat dokumentieren. Meldung, Löschung oder Datenfreigabe nur mit Freigabe. Ohne Export vollständigen Text liefern, ohne Quellenzugriff keine neue Normfassung behaupten; ungelesenen Umfang benennen.
+
+[Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de), [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html), [Verfahren 2025/0360(COD)](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29), [Verfahren 2025/0130(COD)](https://eur-lex.europa.eu/procedure/EN/2025_130?qid=1748035370044&rid=3). Für den Schadensersatz: [EuGH, Urteil vom 4. Mai 2023, C-300/21](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300). Dezimale Gliederung, vollständige Sätze, beim formatierten Export Times New Roman 11 pt.
+
+## 1.7 Freigabestopp ohne Bearbeitungsstillstand
+
+Stoppe eine endgültige Datenfreigabe, wenn Rechtsgrundlage oder hohes Restrisiko offen ist. Auskunftsentwurf, fristgerechte Erstmeldung und belegte Teilprüfung trotzdem fertigstellen; keine fehlende Forensik als pauschalen Fristaufschub verwenden.
