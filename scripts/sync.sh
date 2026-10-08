@@ -31,7 +31,7 @@ with open(f'{work}/marketplace.json', 'w') as f:
     f.write('\n')
 PY
 
-git -C "$WORK/upstream" sparse-checkout add --no-cone $(sed 's#.*#/&/#' "$WORK/paths.txt")
+git -C "$WORK/upstream" sparse-checkout add $(sed 's#.*#/&/#' "$WORK/paths.txt")
 
 rm -rf plugins
 mkdir -p plugins .claude-plugin
