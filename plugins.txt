@@ -1,0 +1,27 @@
+# Kernset
+fachanwalt-it-recht
+fachanwalt-gewerblicher-rechtsschutz
+fachanwalt-urheber-medienrecht
+ecommerce-recht
+datenschutzrecht
+agb-recht-pruefer
+softwarerecht-de-eu-us
+zitierweise-deutsches-recht
+methodenlehre-buergerliches-recht
+# Shop und Marktplatz
+produktrecht
+verbraucherschutzrecht-pruefer
+dsa-dma-digitalregulierung
+barrierefreiheit-web-checker
+# Gewerblicher Rechtsschutz
+markenamt-assistent
+urheberrecht-de-eu
+lizenzvertragsersteller
+meinungspruefer
+# KI und IT-Compliance
+ki-vo-ai-act-pruefer
+nis2-cybersecurity-compliance
+# Vertraege und Durchsetzung
+vertragsrecht
+nda-verschwiegenheit-generator-checker
+prozessrecht
