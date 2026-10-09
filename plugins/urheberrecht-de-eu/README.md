@@ -273,3 +273,11 @@ English: Complete list of all 65 skills in this plugin. Both links in each row d
 | [`wissenschaft-tdm-forschung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=urheberrecht-de-eu/skills/wissenschaft-tdm-forschung/SKILL.md) | Für Wissenschaft, Forschung und TDM: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=urheberrecht-de-eu/skills/wissenschaft-tdm-forschung/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie Trainingsbezug, Ausgabeinhalt und Veröffentlichung getrennt. Technische Markierung und redaktionelle Verantwortung beantworten nicht automatisch die urheberrechtliche Nutzungsbefugnis.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
