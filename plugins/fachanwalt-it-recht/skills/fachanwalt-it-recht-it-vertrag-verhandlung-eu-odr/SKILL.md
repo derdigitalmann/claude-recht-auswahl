@@ -109,7 +109,7 @@ IT-Vertrag-Verhandlung ist Verhandlungs-intensiv: SaaS, Cloud, Lizenz, IT-Projek
 
 ## Quellen und Updates
 
-Stand: 05/2026. EU-ODR-VO 524/2013. VSBG. AI Act 2024/1689 Art. 85. DGRI-Schiedsordnung. Bei VSBG-Reform aktualisieren.
+Stand der AI-Act-Schnittstelle: 09.10.2026. Artikel 85 KI-Verordnung betrifft Beschwerden an die zuständige Marktüberwachungsbehörde, keine allgemeine vertragliche Streitbeilegung oder Ersatzplattform für EU-ODR. Vertragliche Eskalation, VSBG und DGRI-Verfahren getrennt prüfen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -176,3 +176,4 @@ Nächster Termin: [DATUM]
 <!-- END ausformulierungspflicht (autogen) -->
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verknüpfen Sie die vereinbarte Leistung mit produktiver Version, beworbenem Zweck, Testnachweisen und Änderungsverfahren. Eine Garantie für sämtliche KI-Vorschriften ist ohne Rolle, Geltungsdatum und Systemgrenze nicht prüfbar. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

@@ -105,7 +105,7 @@ Nicht-abschließender Katalog möglicher Maßnahmen:
 ## Faktische Updates (Stand 05/2026)
 
 - **Risikobewertungs-Reports:** Die ersten Risikobewertungs-Reports nach Art. 34 DSA (mit Verzoegerung wegen vierjaehriger Designation und Audit-Methodik-Entwicklung) wurden von VLOPs veroeffentlicht. Stand und Reports live über digital-strategy.ec.europa.eu sowie VLOP-Transparency-Center prüfen.
-- **Schnittstelle KI-VO:** Bei KI-Systemen, die in VLOP-Empfehlungssystemen, Inhaltsmoderation oder Werbeauslieferung eingesetzt werden, ueberlagern sich DSA-Risikobewertung (Art. 34) und KI-VO-Risikomanagement (Art. 9). Bei Anhang-III-Hochrisiko-Systemen integrierte Bewertung dokumentieren.
+- **DSA-/KI-Schnittstelle:** Die systemische Risikobewertung einer erfassten Plattform nach Artikel 34 DSA und das Risikomanagement des Hochrisiko-Anbieters nach Artikel 9 KI-Verordnung haben verschiedene Adressaten und Gegenstände. Empfehlungs- oder Moderationssoftware ist nicht allein wegen DSA-Relevanz Hochrisiko-KI. Gemeinsame Nachweise nur soweit passend verwenden. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Art. 36 DSA Krisenmechanismus:** Aktivierungs- und Anwendungspraxis der Kommission live über digital-strategy.ec.europa.eu prüfen (z.B. Wahlperioden, Konflikte).
 - **EuG-Verfahren zu Risikobewertung:** Mehrere VLOPs greifen Kommissions-Auskunftsverlangen / Aufsichtsmassnahmen an. Live über curia.europa.eu prüfen.
 
@@ -154,3 +154,4 @@ Audit (Art. 37 DSA): durchgeführt am [DATUM] / ausstehend
 ```
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ordnen Sie Plattformdienst, GPAI-Modell und konkrete Systemfunktion auseinander. Aus VLOP-Eigenschaft folgt weder eine beliebige KI-VO-Risikoklasse noch dieselbe Zuständigkeit für jede Betreiberfunktion. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

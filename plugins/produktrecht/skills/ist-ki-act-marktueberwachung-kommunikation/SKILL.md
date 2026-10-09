@@ -72,7 +72,7 @@ Manche Fragen sind auf der Oberfläche in Ordnung haben aber eine Wendung. Das M
 | "Können wir auf diesen Daten trainieren?" | Nutzungsrechte für den ursprünglichen Erhebungszweck erstrecken sich möglicherweise nicht auf Training – vgl. DSGVO Art. 5 Abs. 1 lit. b (Zweckbindung) | "Was haben wir Nutzern bei der Erhebung mitgeteilt? In welchen Jurisdiktionen sind die Nutzer?" |
 | "Es ist nur ein internes Tool" | Interne Tools verarbeiten trotzdem personenbezogene Daten – Art. 3 DSGVO kennt keine "intern"-Ausnahme | "Wessen Daten berührt es? Mitarbeiter, Kunden, Dritte?" |
 | "Wir machen schon etwas Ähnliches" | "Ähnlich" macht viel Arbeit – das Delta ist meistens wo die Frage liegt | "Ähnlich wie? Was ist tatsächlich anders?" |
-| "Können wir [KI-Anbieter / KI-System] dafür verwenden?" | Anbieter-KI-Bedingungen können Training auf Eingaben erlauben; Nutzungsfall braucht möglicherweise KI-Folgenabschätzung (KI-VO Art. 9) – weiterleiten an `/ki-governance:anwendungsfall-triage` | "Gibt es einen KI-Zusatz? Welche Daten gehen ins Modell?" |
+| „Können wir diesen KI-Dienst verwenden?“ | Rolle und Zweck zuerst bestimmen; Artikel 9 betrifft das Risikomanagement des Hochrisiko-Anbieters, Artikel 27 eine besondere Betreiber-FRIA | Welche Daten, Funktion und Entscheidung sind vorgesehen? |
 | "Können wir KI zu diesem Feature hinzufügen?" | Möglicherweise neuer Nutzungsfall nicht im Register; könnte KI-VO-Anforderungen auslösen – weiterleiten an `/ki-governance:anwendungsfall-triage` | "Was macht die KI – assistierend oder automatisiert? Auf wen wirkt sie?" |
 | "Das Modell entscheidet automatisch" | Automatisierte Entscheidungsfindung ohne menschliche Überprüfung ist in einigen Jurisdiktionen reguliert (Art. 22 DSGVO, KI-VO Art. 14) | "Wer ist betroffen? Gibt es einen Menschen in der Schleife? Wo sind die betroffenen Nutzer?" |
 | "Es ist KI-generierter Inhalt" | Ausgabe-IP und Offenlegungspflichten variieren nach Jurisdiktion und Anbieterbedingungen – vgl. KI-VO Art. 50 (Kennzeichnung), UrhG § 2 (Werkschutz) | "Was ist der Inhaltstyp? Behandeln die Anbieterbedingungen Ausgabe-Eigentümerschaft? Wer ist das Publikum?" |
@@ -81,6 +81,8 @@ Manche Fragen sind auf der Oberfläche in Ordnung haben aber eine Wendung. Das M
 | "Wir brauchen kein Impressum – wir sind noch klein" | §§ 5, 6 DDG gelten für jeden kommerziellen Online-Dienst unabhängig von Größe; § 16 DDG: Bußgeld bis 50.000 € | "Ist das ein kommerzieller Onlinedienst? Dann Impressumspflicht." |
 
 Wenn eine Falle vorhanden sein könnte, vor der Antwort eine Frage stellen. Eine Frage, keine Checkliste. Wenn die Antwort auf eine echte Frage hindeutet, für Recherche markieren und weiterleiten – nicht zu einer Schlussfolgerung aus der Frage allein muster-erkennen.
+
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Bestimmen Sie Produktrechtsakt, Sicherheitsfunktion und vorgeschriebenes Bewertungsverfahren. Ein CE-Zeichen nach einem Produktrechtsakt darf nicht ohne Prüfung als vollständiger Nachweis aller KI-Systemanforderungen erscheinen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ## Ausgabeformat
 
