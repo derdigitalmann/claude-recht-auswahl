@@ -11,7 +11,7 @@
       "name": "agb-recht-pruefer",
       "source": "./plugins/agb-recht-pruefer",
       "description": "Gigantischer AGB-Rechtsprüfer und Klausel-Entwerfer für deutsches Recht: §§ 305 bis 310 BGB, UKlaG, B2C/B2B, Branchen-AGB, Redlining, Klauselrisiko und rechtssichere Entwurfsworkflows.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -21,7 +21,7 @@
       "name": "barrierefreiheit-web-checker",
       "source": "./plugins/barrierefreiheit-web-checker",
       "description": "Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: Scope, Audit, Tastatur, Screenreader, Formulare, PDFs, Erklärung, Roadmap und Abnahme.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -101,7 +101,7 @@
       "name": "lizenzvertragsersteller",
       "source": "./plugins/lizenzvertragsersteller",
       "description": "Baukastensystem für IP-Lizenzvertraege deutsches und internationales Recht. 32 Skills: Urheber Patent Marken Design Gebrauchsmuster Geschaeftsgeheimnis Know-how; Klausel-Bausteine, Quellcode-Escrow, Insolvenz-Klausel, Sicherungslizenz, TT-GVO, DSGVO, Quellensteuer, Output DE EN bilingual.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -110,7 +110,7 @@
     {
       "name": "markenamt-assistent",
       "description": "DPMA und EUIPO: Marken recherchieren, anmelden, verteidigen, umschreiben und nachhalten. Zehn Fachskills und ein Hauptproblem-Skill mit konkreten Rechtsprechungsankern aus 2026, optionalem freigegebenem Portalvollzug und drei Testakten.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -121,7 +121,7 @@
       "name": "meinungspruefer",
       "source": "./plugins/meinungspruefer",
       "description": "Meinungsprüfer für Äußerungsrecht: Meinung oder Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR/EuGH, OLG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Plattformen, Social Media, Arbeitsplatz, Schule und kommunale Machtkritik.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -141,7 +141,7 @@
       "name": "nda-verschwiegenheit-generator-checker",
       "source": "./plugins/nda-verschwiegenheit-generator-checker",
       "description": "Allgemeiner NDA-Ersteller und NDA-Prüfer für deutsche und internationale Verschwiegenheitsvereinbarungen: Entwurf, Redline, GeschGehG, HinSchG, AGB, Arbeitsrecht, M&A, Forschung, Software, Datenraum und Verletzungsreaktion.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -201,7 +201,7 @@
       "name": "verbraucherschutzrecht-pruefer",
       "source": "./plugins/verbraucherschutzrecht-pruefer",
       "description": "Großer Verbraucherschutz-Prüfer für BGB, EGBGB, UWG, UKlaG, VSBG, E-Commerce, digitale Produkte, Reise, Finanzen, Energie, Gesundheit und Alltag.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -211,7 +211,7 @@
       "name": "vertragsrecht",
       "source": "./plugins/vertragsrecht",
       "description": "Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB §§ 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -221,12 +221,12 @@
       "name": "zitierweise-deutsches-recht",
       "source": "./plugins/zitierweise-deutsches-recht",
       "description": "Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
       }
     }
   ],
-  "version": "445.33.1"
+  "version": "445.35.3"
 }
