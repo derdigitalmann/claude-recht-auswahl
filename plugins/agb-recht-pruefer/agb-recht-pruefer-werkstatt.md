@@ -1,6 +1,8 @@
-# 1. AGB-Recht prüfen und gestalten: Werkstatt
+# AGB-Recht prüfen und gestalten: Werkstatt
 
-Prüfe, welche Preis-, Haftungs-, Leistungs- oder Kündigungsregel dem Kunden tatsächlich gestellt wurde, ob sie wirksam vereinbart ist und welches Recht nach ihrem Ausfall gilt. Lies Vertrag, Anlagen und Verhandlungsspuren und verfasse das beauftragte Klauselgutachten, die vollständige Ersatzfassung oder die begründete Antwort. Eine verständliche Klausel kann materiell unwirksam sein; eine neue Fassung ändert den Altbestand nicht von selbst.
+Welche Belastung darf die Vertragsklausel dem Kunden auferlegen, und was gilt bei ihrem Ausfall? Prüfe die tatsächlich gestellte Preis-, Haftungs-, Leistungs- oder Kündigungsregel nach Paragrafen 305 bis 310 BGB. Verfasse aus Vertrag, Anlagen und Verhandlungsspuren das beauftragte Klauselgutachten, die vollständige Ersatzfassung oder die begründete Antwort. Eine verständliche Klausel kann materiell unwirksam sein; eine neue Fassung ändert den Altbestand nicht von selbst.
+
+Für die Ausfallfolge dient der unten dokumentierte BGH, Urteil vom 13.03.2025, III ZR 426/23, Rn. 46 und 50: Prüfe, ob der verbleibende Wortlaut selbständig sinnvoll ist. Das erlaubt keine geltungserhaltende Neufassung und keine allgemeine Übertragung des Krankenhausfalls auf andere Branchen. Den vorhandenen Quellenstatus nicht als neue Verifikation ausgeben.
 
 ## 1. Arbeitsauftrag aus dem Vertrag ableiten
 
@@ -146,6 +148,10 @@ Nutze die [Daten- und Modellreferenz](skills/haftungsdeckel-fuer-daten-und-model
 
 ### 10.3. Änderungsbefugnis und Zustimmung getrennt feststellen
 
+Bei Preisänderungen mit Ablehnungs- und Kündigungsrechten ziehe BGH, Urteil vom 01.10.2026 - Az. III ZR 205/25, ausschließlich nach der gelesenen [amtlichen Pressemitteilung 184/2026](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html) heran (Stand 16.10.2026; Urteilsvolltext nicht gelesen, keine Randnummern). Nach der Mitteilung waren die Regelungen nach Paragraf 307 Absatz 1 Satz 1 und 2 BGB intransparent: Einerseits konnte Ablehnung nur Vertragskündigung bedeuten, andererseits einfachen Widerspruch mit Fortsetzung zum bisherigen Preis, vorbehaltlich einer Anbieterkündigung. Der Unterlassungsfall entscheidet weder ein allgemeines Verbot von Preisanpassungen noch individuelle Rückzahlung.
+
+Fordere fehlende Teile der gesamten Klauselgruppe einschließlich Preis-, Änderungs-, Zustimmungs- und Kündigungsbestimmungen sowie die konkrete Kundenmitteilung an. Zeige die vertretbaren Lesarten und ihre unterschiedlichen Rechtsfolgen. Bestimme Vertragsdatum, Änderungszeitpunkt, maßgebliche Normfassung und Sonderrecht. Kläre, ob die Änderung auf einer wirksamen Ermächtigung oder neuer Einigung beruhen soll; Transparenz allein legitimiert keine Zustimmungsfiktion. Bei Gestaltungsauftrag schreibe aufeinander abgestimmte Klauselgruppe und Kundenmitteilung mit Folgen von Schweigen, Widerspruch und Kündigung. Nach neuen Unterlagen passe Befund und beide Texte an; eine neue Mitteilung repariert keine unwirksame Altklausel. Optional: [Preisanpassung prüfen](skills/preisanpassung-klausel/SKILL.md).
+
 Frage zuerst, auf welchem Mechanismus die Änderung beruhen soll: bereits vereinbarter Anpassungsvorbehalt, ausdrückliche neue Einigung, schlüssige Annahme oder fingierte Zustimmung. Ein bloßes Änderungsangebot erzeugt noch keine neue Pflicht. Der Nachweis des Zugangs ist nicht der Nachweis der Annahme. Aus fortgesetzter Nutzung oder Zahlung nur nach Würdigung des konkreten Erklärungswerts auf eine Vereinbarung schließen; bestehende Leistungspflichten können dasselbe Verhalten erklären.
 
 Bei einer Zustimmungsfiktion Frist, besonderen Hinweis und inhaltliche Reichweite separat prüfen. BGH, Urteil vom 27.04.2021, Az. XI ZR 26/20, Randnummern 18 bis 32 und 38 bis 40, zeigt, weshalb ein unbeschränkter Austausch des Vertragsgefüges nicht durch Mitteilung und Kündigungsmöglichkeit legitimiert wird. Bei Zahlungsdiensten zusätzlich Paragraf 675g BGB prüfen; dessen Zweimonatsvorlauf ist keine allgemeine Frist für sämtliche Branchen. Die [Bankreferenz](skills/vertragsaenderung-durch-zustimmung-pruefen/references/bankbedingungen.md) trennt die Zahlungsdiensteregelung von der AGB-Kontrolle.
@@ -199,7 +205,6 @@ Bei einer Schiedsabrede Schiedsort, Recht der Abrede und Hauptvertragsstatut unt
 Die Empfehlung unterscheidet zwischen rechtlicher Beanstandung, unbewiesenem Sachverhalt und wirtschaftlich vertretbarer Verhandlungsoption. Eine niedrige Risikostufe braucht eine Begründung; sie darf nicht allein aus Marktüblichkeit oder dem Fehlen bekannter Klagen entstehen. Bei erheblicher Unsicherheit keine Scheingenauigkeit durch Prozentwerte erzeugen. Benenne, welches Dokument oder welche Entscheidung die Einschätzung ändern würde.
 
 Die abschließende Fassung muss den zuletzt geprüften Wortlaut enthalten. Vergleiche insbesondere die Begründung mit dem tatsächlich vorgeschlagenen Text: Ausnahmen, Fristen und geschützte Ansprüche dürfen nicht nur im Memo stehen. Quellen in ihrer Tragweite einordnen und Abrufstand festhalten; nicht für alle Vertragsarten dieselbe Entscheidung anführen. Prüfe die für Vertragsdatum und Prüfauftrag maßgebliche Normfassung. Die Fachreferenzen bleiben selektive Vertiefungen, keine Pflichtlektüre für jeden Fall.
-
 
 ## 13. Technische Grenzen
 
