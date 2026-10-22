@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "mehmet-recht-auswahl",
+  "name": "digitalmann-recht-auswahl",
   "description": "Auswahl aus Klotzkette/claude-fuer-deutsches-recht, automatisch gespiegelt.",
   "owner": {
     "name": "Klotzkette",

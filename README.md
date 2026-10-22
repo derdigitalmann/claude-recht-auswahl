@@ -24,8 +24,10 @@ Das Original-Repository ist für die Marketplace-Funktion in claude.ai zu groß 
 
 ```
 claude plugin marketplace add derdigitalmann/claude-recht-auswahl
-claude plugin install fachanwalt-it-recht@mehmet-recht-auswahl
+claude plugin install fachanwalt-it-recht@digitalmann-recht-auswahl
 ```
+
+Der Marketplace hieß bis 22.10.2026 `mehmet-recht-auswahl`. Wer ihn unter dem alten Namen eingebunden hat, entfernt ihn einmal und fügt ihn neu hinzu: in claude.ai unter Anpassen > Plugins; in Claude Code mit `claude plugin marketplace remove mehmet-recht-auswahl` und danach `claude plugin marketplace add derdigitalmann/claude-recht-auswahl`.
 
 ## Aktualisierung
 
