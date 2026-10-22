@@ -22,7 +22,7 @@ for p in sel:
     src = p['source'].removeprefix('./').rstrip('/')
     paths.append(src)
     p['source'] = './plugins/' + src
-m['name'] = 'mehmet-recht-auswahl'
+m['name'] = 'digitalmann-recht-auswahl'
 m['description'] = 'Auswahl aus Klotzkette/claude-fuer-deutsches-recht, automatisch gespiegelt.'
 m['plugins'] = sel
 open(f'{work}/paths.txt', 'w').write('\n'.join(paths) + '\n')
